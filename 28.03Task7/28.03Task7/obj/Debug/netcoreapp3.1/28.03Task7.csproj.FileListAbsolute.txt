@@ -1,0 +1,13 @@
+C:\Users\Honor\Desktop\ag201\homeWork\28.03Task7\28.03Task7\bin\Debug\netcoreapp3.1\28.03Task7.exe
+C:\Users\Honor\Desktop\ag201\homeWork\28.03Task7\28.03Task7\bin\Debug\netcoreapp3.1\28.03Task7.deps.json
+C:\Users\Honor\Desktop\ag201\homeWork\28.03Task7\28.03Task7\bin\Debug\netcoreapp3.1\28.03Task7.runtimeconfig.json
+C:\Users\Honor\Desktop\ag201\homeWork\28.03Task7\28.03Task7\bin\Debug\netcoreapp3.1\28.03Task7.runtimeconfig.dev.json
+C:\Users\Honor\Desktop\ag201\homeWork\28.03Task7\28.03Task7\bin\Debug\netcoreapp3.1\28.03Task7.dll
+C:\Users\Honor\Desktop\ag201\homeWork\28.03Task7\28.03Task7\bin\Debug\netcoreapp3.1\28.03Task7.pdb
+C:\Users\Honor\Desktop\ag201\homeWork\28.03Task7\28.03Task7\obj\Debug\netcoreapp3.1\28.03Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\ag201\homeWork\28.03Task7\28.03Task7\obj\Debug\netcoreapp3.1\28.03Task7.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\ag201\homeWork\28.03Task7\28.03Task7\obj\Debug\netcoreapp3.1\28.03Task7.AssemblyInfo.cs
+C:\Users\Honor\Desktop\ag201\homeWork\28.03Task7\28.03Task7\obj\Debug\netcoreapp3.1\28.03Task7.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\ag201\homeWork\28.03Task7\28.03Task7\obj\Debug\netcoreapp3.1\28.03Task7.dll
+C:\Users\Honor\Desktop\ag201\homeWork\28.03Task7\28.03Task7\obj\Debug\netcoreapp3.1\28.03Task7.pdb
+C:\Users\Honor\Desktop\ag201\homeWork\28.03Task7\28.03Task7\obj\Debug\netcoreapp3.1\28.03Task7.genruntimeconfig.cache

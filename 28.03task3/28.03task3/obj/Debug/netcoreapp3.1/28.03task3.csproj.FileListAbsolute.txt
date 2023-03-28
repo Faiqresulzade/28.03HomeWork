@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\ag201\homeWork\28.03task3\28.03task3\bin\Debug\netcoreapp3.1\28.03task3.exe
+C:\Users\Honor\Desktop\ag201\homeWork\28.03task3\28.03task3\bin\Debug\netcoreapp3.1\28.03task3.deps.json
+C:\Users\Honor\Desktop\ag201\homeWork\28.03task3\28.03task3\bin\Debug\netcoreapp3.1\28.03task3.runtimeconfig.json
+C:\Users\Honor\Desktop\ag201\homeWork\28.03task3\28.03task3\bin\Debug\netcoreapp3.1\28.03task3.runtimeconfig.dev.json
+C:\Users\Honor\Desktop\ag201\homeWork\28.03task3\28.03task3\bin\Debug\netcoreapp3.1\28.03task3.dll
+C:\Users\Honor\Desktop\ag201\homeWork\28.03task3\28.03task3\bin\Debug\netcoreapp3.1\28.03task3.pdb
+C:\Users\Honor\Desktop\ag201\homeWork\28.03task3\28.03task3\obj\Debug\netcoreapp3.1\28.03task3.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\ag201\homeWork\28.03task3\28.03task3\obj\Debug\netcoreapp3.1\28.03task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\ag201\homeWork\28.03task3\28.03task3\obj\Debug\netcoreapp3.1\28.03task3.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\ag201\homeWork\28.03task3\28.03task3\obj\Debug\netcoreapp3.1\28.03task3.AssemblyInfo.cs
+C:\Users\Honor\Desktop\ag201\homeWork\28.03task3\28.03task3\obj\Debug\netcoreapp3.1\28.03task3.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\ag201\homeWork\28.03task3\28.03task3\obj\Debug\netcoreapp3.1\28.03task3.dll
+C:\Users\Honor\Desktop\ag201\homeWork\28.03task3\28.03task3\obj\Debug\netcoreapp3.1\28.03task3.pdb
+C:\Users\Honor\Desktop\ag201\homeWork\28.03task3\28.03task3\obj\Debug\netcoreapp3.1\28.03task3.genruntimeconfig.cache
